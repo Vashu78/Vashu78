@@ -32,13 +32,10 @@ At InsightGeeks Solutions Pvt Ltd, we follow an agile development methodology an
 To get started, please review the project documentation and familiarize yourself with our codebase, development processes, and team members. Don't hesitate to reach out if you have any questions or need assistance getting set up.
 
 ## Benefits
-- Competitive salary and performance-based bonuses
-- Flexible remote work options
-- Comprehensive health insurance, retirement plans, and other benefits
 - Opportunities for professional growth and career advancement
 - Engaging and collaborative work culture with a focus on innovation and creativity
 
 ## Contact Information
-If you have any questions or need further assistance, please feel free to reach out to **[Name], [Position],** at **[Email Address]**.
+If you have any questions or need further assistance, please feel free to reach out to **Vishal Sharma, SDE3,** at **vs4084062@gmail.com**.
 
 We're thrilled to have you on board and look forward to working together to achieve great things!
