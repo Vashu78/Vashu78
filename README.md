@@ -17,14 +17,17 @@ As a Senior Software Development Engineer (SDE3) - Android, you will play a key 
 ## Tools and Technologies
 - Android SDK
 - Kotlin
+- Jetpack 🚀
 - Java
 - Android Studio
 - Git
 - RESTful APIs
-- JSON parsing
-- Modern Android architectural patterns (e.g., MVVM, MVP)
-- Reactive programming frameworks (e.g., RxJava, Kotlin Coroutines)
-
+- Modern Android architectural patterns (e.g., MVVM, MVP, MVC)
+- DataBinding & ViewBinding
+- Firebase (Authentication, Realtime Database, Firestore, Crashlytics, Storage messaging etc)
+- GoogleMap SDK
+- Jira
+- Git
 ## Development Process
 At InsightGeeks Solutions Pvt Ltd, we follow an agile development methodology and embrace continuous improvement. We value collaboration, transparency, and open communication, and we encourage our team members to share ideas and feedback openly.
 
