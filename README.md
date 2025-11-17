@@ -1,44 +1,104 @@
-# 😍InsightGeeks Solutions Pvt Ltd - Senior Software Development Engineer (SDE3) - Android
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
+<h3 align="center">Senior Android Developer (SDE–III) | 5+ Years Experience | GPS Tracking & Enterprise Apps Expert</h3>
 
-## About Us
-InsightGeeks Solutions Pvt Ltd is a leading technology company dedicated to delivering innovative software solutions that drive digital transformation. We specialize in creating cutting-edge applications for a variety of industries, with a focus on leveraging the latest technologies to solve complex problems and enhance user experiences.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Senior+Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+MVVM;GPS+Tracking+%7C+Offline+Apps;5%2B+Years+Experience;Love+to+Build+Scalable+Apps" />
+</p>
 
-## Your Role
-As a Senior Software Development Engineer (SDE3) - Android, you will play a key role in leading the design, development, and delivery of robust Android applications. You'll collaborate with cross-functional teams, mentor junior developers, and contribute to the success and growth of our company.
+---
 
-## Responsibilities
-- Lead the end-to-end development lifecycle of Android applications, from concept to deployment.
-- Architect scalable and maintainable solutions that meet business requirements and technical standards.
-- Mentor and guide junior developers, providing technical leadership and sharing best practices.
-- Collaborate with product managers, designers, and backend engineers to define features and deliver high-quality solutions.
-- Conduct code reviews, ensure code quality, and enforce coding standards and best practices.
-- Stay updated on emerging technologies, tools, and trends in Android development, and advocate for their adoption when appropriate.
+## 🚀 About Me  
+I’m a **Senior Software Development Engineer (SDE3)** at InsightGeeks Solutions Pvt Ltd with **5+ years of hands-on experience** building:
 
-## Tools and Technologies
-- Android SDK
-- Kotlin
-- Jetpack 🚀
-- Java
-- Android Studio
-- Git
-- RESTful APIs
-- Modern Android architectural patterns (e.g., MVVM, MVP, MVC)
-- DataBinding & ViewBinding
-- Firebase (Authentication, Realtime Database, Firestore, Crashlytics, Storage messaging etc)
-- GoogleMap SDK
-- Jira
-- Git
-## Development Process
-At InsightGeeks Solutions Pvt Ltd, we follow an agile development methodology and embrace continuous improvement. We value collaboration, transparency, and open communication, and we encourage our team members to share ideas and feedback openly.
+- Real-time **GPS Tracking Apps**  
+- **Field Force Automation** systems  
+- **Offline-first enterprise apps**  
+- Scalable Android architectures (MVVM, Clean Architecture, Modularization)
 
-## Getting Started
-To get started, please review the project documentation and familiarize yourself with our codebase, development processes, and team members. Don't hesitate to reach out if you have any questions or need assistance getting set up.
+I specialize in creating high-performance apps with **Kotlin, Jetpack, Compose, Room, Retrofit, Hilt**, and **Background Location Services**.
 
-## Benefits
-- Opportunities for professional growth and career advancement
-- Engaging and collaborative work culture with a focus on innovation and creativity
+---
 
-## Contact Information
-If you have any questions or need further assistance, please feel free to reach out to **Vishal Sharma, SDE3,** at **vs4084062@gmail.com**.
+## 📱 Play Store Projects (Published)
+### 🔵 **TrackoField – Employee Tracking & Field Operations App**  
+✔ Real-time GPS tracking • Offline sync • Attendance • Task Management  
+🔗 https://play.google.com/store/apps/details?id=com.trackofield.tracker  
 
-We're thrilled to have you on board and look forward to working together to achieve great things!
+### 🟢 **TB Track GPS – Fleet Vehicle Tracking App**  
+✔ Live vehicle tracking • Route history • Geofencing • Alerts & Analytics  
+🔗 https://play.google.com/store/apps/details?id=com.tbtrack.gps  
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 🚀 **Languages**
+![Kotlin](https://img.shields.io/badge/Kotlin-7963FE?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E11F22?style=for-the-badge&logo=coffeescript&logoColor=white)
+
+### 📘 **Android Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-03A9F4?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-D00000?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4FC08D?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+
+### 🗄 Backend / Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Maps%20SDK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vashu78&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Advanced)
+
+### 🔥 Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vashu78&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vashu78&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🔤 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashu78&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📬 Contact Me  
+📧 Email: **bmnv.vishal@gmail.com**  
+📍 Location: Noida, India  
+🔗 LinkedIn: https://in.linkedin.com/in/vishal-sharma-908340205  
+
+---
+
+## ⭐ Fun Fact  
+💡 *“I build apps that track everything — except my sleep.”* 😄  
+
+---
+
+### 🙌 Thanks for visiting!  
+⭐ **Don’t forget to star repositories you like — it motivates me!**
+
